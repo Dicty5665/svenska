@@ -1,0 +1,44 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# system files
+.bash_history
+.gitconfig
+.node_repl_history
+AppData/
+.cursor/
+.dbus-key*
+*.xml
+*.txt
+*.json
+
+# IDE and editor files
+.vscode/
+*.swp
+*.swo
+
+# Large files
+*.dmp
+*.exe
+*.nupkg
+*.db 
